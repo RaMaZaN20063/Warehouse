@@ -86,8 +86,16 @@ flutter pub get
 ✅ Ссылка на видео
 https://drive.google.com/file/d/1-4ZKbMKYpoUSTVSQf-d76HbbwAAE5TJH/view?usp=sharing
 
-✅ Ссылка на скриншоты
-<img width="625" height="964" alt="image" src="https://github.com/user-attachments/assets/f4a21fdf-28e9-437a-bd24-e63da70e95f6" />
-<img width="620" height="960" alt="image" src="https://github.com/user-attachments/assets/906c025d-1269-4c01-a8a1-540d565a00a1" />
+## 🖼️ Скриншоты приложения
+
+<div align="center">
+
+### 📱 Главный экран  
+<img width="300" alt="Главный экран" src="https://github.com/user-attachments/assets/f4a21fdf-28e9-437a-bd24-e63da70e95f6" />
+
+### ➕ Добавление товара  
+<img width="300" alt="Добавление товара" src="https://github.com/user-attachments/assets/906c025d-1269-4c01-a8a1-540d565a00a1" />
+
+</div>
 
 
